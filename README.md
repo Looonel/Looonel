@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Looonel!
-- 👀 My interests are programming and exercising
-- 🌱 I’m currently learning Python and PHP
-- 📫 You can reach me through my email which is lionel.himawan@gmail.com
-- ⚡ A fun fact about me is that I broke my pinky finger and now it's crooked forever
+
